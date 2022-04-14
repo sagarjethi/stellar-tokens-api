@@ -14,7 +14,7 @@
 		"npm": "^5.6.0"
 	},
 	"dependencies": {
-		"async": "^2.6.1",
+		"async": "^3.2.2",
 		"axios": "^0.18.1",
 		"basic-auth": "^2.0.0",
 		"bignumber.js": "^6.0.0",
